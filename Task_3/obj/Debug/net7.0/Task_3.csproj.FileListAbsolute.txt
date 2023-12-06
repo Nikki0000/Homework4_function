@@ -1,0 +1,14 @@
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\bin\Debug\net7.0\Task_3.exe
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\bin\Debug\net7.0\Task_3.deps.json
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\bin\Debug\net7.0\Task_3.runtimeconfig.json
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\bin\Debug\net7.0\Task_3.dll
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\bin\Debug\net7.0\Task_3.pdb
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\obj\Debug\net7.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\obj\Debug\net7.0\Task_3.AssemblyInfoInputs.cache
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\obj\Debug\net7.0\Task_3.AssemblyInfo.cs
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\obj\Debug\net7.0\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\obj\Debug\net7.0\Task_3.dll
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\obj\Debug\net7.0\refint\Task_3.dll
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\obj\Debug\net7.0\Task_3.pdb
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\obj\Debug\net7.0\Task_3.genruntimeconfig.cache
+C:\Users\Savodyarkin_N\Desktop\Homework4_function\Task_3\obj\Debug\net7.0\ref\Task_3.dll
